@@ -8,5 +8,5 @@ A simple, responsive Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
 - Responsive layout using `vh` and `vmin` units
 - "Reset Game" button to play again
 - Clean UI with Flexbox and shadow effects
-- No page reloads — fully dynamic with JavaScript
+- No page reloads, it's fully dynamic with JavaScript
   
